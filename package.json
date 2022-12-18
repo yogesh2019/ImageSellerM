@@ -1,0 +1,23 @@
+{
+  "name": "imagesellerm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh2019/ImageSellerM.git"
+  },
+  "author": "yogeshkkhichi@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh2019/ImageSellerM/issues"
+  },
+  "homepage": "https://github.com/yogesh2019/ImageSellerM#readme",
+  "dependencies": {
+    "multer": "^1.4.5-lts.1",
+    "node": "^19.3.0"
+  }
+}
